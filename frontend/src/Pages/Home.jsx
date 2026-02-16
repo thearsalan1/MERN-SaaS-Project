@@ -10,10 +10,6 @@ import Footer from "../components/Footer";
 const Home = () => {
   return (
     <>
-      <div className="relative z-50">
-        <Navbar />
-      </div>
-
       <Hero />
       <FeatureBox />
 
@@ -30,7 +26,6 @@ const Home = () => {
           </div>
         </div>
 
-        {/* Gradient Box with Map */}
         <div className="bg-gradient-to-r from-[#FF9898] to-[#8054FF] rounded-3xl flex items-center justify-between w-[80%] mx-auto py-10 relative z-10">
           <div className="w-2/3 pl-20">
             <p className="text-white text-xl mb-5">Love our Tool?</p>

@@ -1,5 +1,5 @@
 import React from "react";
-import Navbar from "../Components/Navbar";
+import Navbar from "../components/Navbar";
 import Hero from "../components/Hero";
 import FeatureBox from "../components/FeatureBox";
 import CompanyBoxes from "../components/Companies";

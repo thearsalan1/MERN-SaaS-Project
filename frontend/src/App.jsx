@@ -1,7 +1,7 @@
 import React from "react";
 import { Routes, Route, useLocation } from "react-router-dom";
 import { UserProvider } from "./context/UserContext.jsx";
-import Navbar from "./Components/Navbar";
+import Navbar from "./components/Navbar";
 import ComingSoon from "./Pages/ComingSoon";
 import Help from "./Pages/Help";
 import Home from "./Pages/Home";

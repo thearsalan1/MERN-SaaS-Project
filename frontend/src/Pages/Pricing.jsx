@@ -4,7 +4,7 @@ import group254 from "../assets/Group254.png";
 import group255 from "../assets/Group255.png";
 import group253 from "../assets/Group253.png";
 import silver from "../assets/silver.png";
-import gold from "../assets/gold.png";
+import gold from "../assets/Gold.png";
 import diamond from "../assets/diamond.png";
 
 const Pricing = () => {

@@ -1,8 +1,8 @@
-import group96 from "../assets/group96.png";
-import group97 from "../assets/group97.png";
-import group98 from "../assets/group98.png";
-import group99 from "../assets/group99.png";
-import group100 from "../assets/group100.png";
+import group96 from "../assets/Group96.png";
+import group97 from "../assets/Group97.png";
+import group98 from "../assets/Group98.png";
+import group99 from "../assets/Group99.png";
+import group100 from "../assets/Group100.png";
 import frame from "../assets/Frame.png";
 
 const companies = [

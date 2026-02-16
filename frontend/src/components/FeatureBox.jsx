@@ -1,10 +1,10 @@
 import FeatureCards from "./FeatureCards";
 import img from "../assets/Group123.png";
 import ellipse11 from "../assets/Ellipse11.png";
-import ellipse10 from "../assets/ellipse10.png";
-import ellipse9 from "../assets/ellipse9.png";
+import ellipse10 from "../assets/Ellipse10.png";
+import ellipse9 from "../assets/Ellipse9.png";
 import group124 from "../assets/Group124.png";
-import vector from "../assets/vector.png";
+import vector from "../assets/Vector.png";
 
 const FeatureBox = () => {
   return (

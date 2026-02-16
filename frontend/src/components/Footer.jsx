@@ -1,4 +1,3 @@
-import vector from "../assets/vector.png";
 import group131 from "../assets/Group131.png";
 
 const Footer = () => {

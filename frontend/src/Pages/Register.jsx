@@ -1,4 +1,3 @@
-import React from "react";
 import Group265 from "../assets/Group265.png";
 import Group264 from "../assets/Group264.png";
 
